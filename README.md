@@ -1,1 +1,1 @@
-Ninja's Math Valley is an educational Python-based game specifically designed to help players learn and reinforce fundamental mathematical concepts. In this game, players assume the role of a ninja navigating through a series of levels
+Ninja's Math Valley is an educational Python-based game specifically designed to help players learn and reinforce fundamental mathematical concepts. In this game, players assume the role of a ninja navigating through a series of levels.
